@@ -42,10 +42,9 @@ The model predicts car prices based on user inputs and helps estimate market val
 
 ## 📂 Project Structure
 
-├── Dataset/
-├── Notebook/
-├── Model/
-├── Images/
+├── Cardetails.csv
+├── app.py
+├── Untitled2.ipynb
 └── README.md
 
 ## 🚀 Future Improvements
@@ -57,7 +56,7 @@ The model predicts car prices based on user inputs and helps estimate market val
 
 ## 📸 Project Screenshot
 
-(Add project screenshots here)
+(Comming Soon)
 
 ## 👨‍💻 Author
 
